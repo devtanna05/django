@@ -1,0 +1,6 @@
+db.sqlite3
+erp/
+home/
+manage.py
+static/
+templates/
